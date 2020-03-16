@@ -74,7 +74,7 @@ Blogging after an interview can be a cathartic experience, but beware of bashing
 
 Blogging is one component of your personal brand. But, unlike having LinkedIn and Twitter accounts, blogging is more involved. Recruiters and hiring managers know this. Ultimately, the level of commitment blogging requires will differentiate you even more from your competition.
 
-You can get started using platforms such as [Github Pages](https://pages.github.com/) or [Wordpress](https://wordpress.com/learn-more/?v=blog) or you can create a blog right on [Learn!](learn.co/blog)
+You can get started using platforms such as [Github Pages](https://pages.github.com/) or [Wordpress](https://wordpress.com/learn-more/?v=blog). 
 
 Keep blogging and supporting your learning! 
 
